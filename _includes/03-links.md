@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[![Step 0, Start](https://github.com/skills/communicate-using-markdown/actions/workflows/0-start.yml/badge.svg?branch=main)](https://github.com/skills/communicate-using-markdown/actions/workflows/0-start.yml)
